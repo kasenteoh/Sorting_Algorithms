@@ -15,7 +15,7 @@ src/TimeConverter.java
     - Converts the time into string equivalent
 
 resources/RUN.txt
-    - Outputs
+    - Same outputs and a copy of the annotations of the graphs
 
 resources/CS Assignment 8 - All Data.csv
     - Contains all the data (the table) NOT the graphs in a comma separated value
