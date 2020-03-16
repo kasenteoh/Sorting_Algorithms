@@ -14,8 +14,20 @@ src/TestClass.java
 src/TimeConverter.java
     - Converts the time into string equivalent
 
-src/RUN.txt
-    - Outputs
+resources/RUN.txt
+    - Same outputs and a copy of the annotations of the graphs
+
+resources/CS Assignment 8 - All Data.csv
+    - Contains all the data (the table) NOT the graphs in a comma separated value
+
+resources/CS Assignment 8 - Table and Graphs and Annotations
+    - A copy of the table in "CS Assignment 8 - All Data.csv"
+    - Four graphs, one for each of the runs plus the average run time
+    - A zoomed in portion of each graph
+    - Annotations for each zoomed in portion of each graph
+
+README.txt
+    - Description of submitted files
 
 
 
