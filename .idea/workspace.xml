@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ae7e1cf-4c1f-48cb-b47e-a6b71982d85e" name="Default Changelist" comment="Added Javadocs">
+      <change beforePath="$PROJECT_DIR$/resources/CS Assignment 8 - All Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CS Assignment 8 - Table and Graphs and Annotations.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Z8Svs9xle5KmtyO8c25N4YUxrz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="Sorting Algorithms Comparison" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae7e1cf-4c1f-48cb-b47e-a6b71982d85e" name="Default Changelist" comment="" />
+      <created>1584219462013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584219462013</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Testing quick sort using varying array sizes and different recursion limits">
+      <created>1584316128038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316128038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added .gitignore to automatically ignore class files and etc.">
+      <created>1584316181966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316181966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added javadocs">
+      <created>1584316226520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316226520</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added csv file containing the data and a pdf containing annotations and the graphs">
+      <created>1584316282584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316282584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated README.txt">
+      <created>1584316698905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316698905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated README.txt">
+      <created>1584316720363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584316720363</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Javadocs">
+      <created>1584317197172</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584317197172</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Javadocs">
+      <created>1584317854341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584317854341</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/kasen/Desktop/Data Structures Winter 2020/kasenteoh-cs1c-project08/docs" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing quick sort using varying array sizes and different recursion limits" />
+    <MESSAGE value="Added .gitignore to automatically ignore class files and etc." />
+    <MESSAGE value="Added javadocs" />
+    <MESSAGE value="Added csv file containing the data and a pdf containing annotations and the graphs" />
+    <MESSAGE value="Updated README.txt" />
+    <MESSAGE value="Added Javadocs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Javadocs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1532" y="115" key="CommitChangelistDialog2" timestamp="1597004809235">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1532" y="115" key="CommitChangelistDialog2/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004809235" />
+    <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1597003851008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597003851008" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1597004813362">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004813362" />
+    <state width="1237" height="123" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597004524623" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1597004813361">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004813361" />
+    <state width="1237" height="123" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597004524623" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1597004813361">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004813361" />
+    <state width="1237" height="123" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597004524622" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1597004813362">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004813362" />
+    <state width="1237" height="123" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597004524623" />
+    <state x="316" y="41" width="835" height="599" key="NewModule_or_Project.wizard" timestamp="1597003864537">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="41" width="835" height="599" key="NewModule_or_Project.wizard/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597003864537" />
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1597004521484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597004521484" />
+    <state x="28" y="23" width="1235" height="649" key="new project wizard" timestamp="1597004627083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="23" width="1235" height="649" key="new project wizard/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597004627083" />
+  </component>
+</project>
