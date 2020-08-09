@@ -1,5 +1,5 @@
 project folder:
-    kasenteoh-cs1c-project08
+    Sorting Algorithms Comparison
 
 Brief description of submitted files:
 
